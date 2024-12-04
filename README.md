@@ -17,7 +17,7 @@ const lazaroPlaceres = {
 ```
 
 
-## Contacto
+## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro-placeres-716338265/)
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lrodriguezplaceres@gmail.com)
 
