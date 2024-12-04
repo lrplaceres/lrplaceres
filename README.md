@@ -1,16 +1,20 @@
-## Hi there 👋
+## ¡Hello! 👋 I'm Lazaro Placeres 👋
 
-<!--
-**lrplaceres/lrplaceres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer | Specialist in React, TypeScript, and Python
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently working as a full-stack developer.
+- 🚀 Engaged in projects involving microservices, Next.js, and AWS Amplify.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const lazaroPlaceres = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, Python, HTML, CSS],
+  tools: [React, Next.js, Nest.js, fastAPI, Docker],
+  architecture: ["microservices"]
+}
+
+## Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro-placeres-716338265/)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lrodriguezplaceres@gmail.com)
+
+
