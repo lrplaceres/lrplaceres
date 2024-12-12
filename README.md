@@ -1,6 +1,6 @@
 ## ¡Hello! 👋 I'm Lazaro Placeres 👋
 
-Web Developer | Specialist in React, TypeScript, and Python
+Web Developer | Specialist in React, TypeScript, PHP and Python
 
 ## About Me
 - 🌱 Currently working as a full-stack developer.
