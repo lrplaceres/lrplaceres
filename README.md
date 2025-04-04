@@ -4,7 +4,7 @@ Web Developer | Specialist in React, TypeScript, PHP and Python
 
 ## About Me
 - 🌱 Currently working as a full-stack developer.
-- 🚀 Engaged in projects involving microservices, Next.js, and AWS Amplify.
+- 🚀 Engaged in projects involving microservices, Nest.js Next.js, and AWS Amplify.
 - 🙋‍♂️ I'm a software developer passionate about modern web technologies and scalable architecture. Here's a quick summary of my stack:
 
 ```javascript
