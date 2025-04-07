@@ -11,7 +11,7 @@ Web Developer | Specialist in React, TypeScript, PHP and Python
 const lazaroPlaceres = {
   pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "Python", "PHP", "HTML", "CSS"],
-  tools: ["React", "Next.js", "Nest.js", "fastapi", "Docker"],
+  tools: ["React", "Next.js", "NestJS", "fastapi", "Docker"],
   architecture: ["microservices"]
 };
 ```
