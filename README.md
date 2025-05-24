@@ -12,7 +12,7 @@ const lazaroPlaceres = {
   pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "Python", "PHP", "HTML", "CSS"],
   tools: ["React", "Next.js", "NestJS", "fastapi", "Docker"],
-  architecture: ["microservices"]
+  architecture: ["microservices", "monolithic", "serverless"]
 };
 ```
 
